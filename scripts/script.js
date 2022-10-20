@@ -44,9 +44,9 @@ const games = [
       author: "Lane Schmidt"
     },
     {
-      title: "Etinnons Game",
+      title: "Emily Tinnon's Game",
       link: "https://etinnon.github.io/cis376-delta/", 
-      author: "Etinnon"
+      author: "Emily Tinnon"
     },
     {
       title: "Nicole's Game",
@@ -64,14 +64,14 @@ const games = [
       author: "Tychicus Thomas"
     },
     {
-      title: "Stale breads game",
+      title: "Ethan Criddle's game",
       link: "https://stalewhitebread.github.io/urban-invention/", 
-      author: "Stale White Bread"
+      author: "Ethan Criddle"
     },
     {
       title: "Solid-octo-happiness",
       link: "https://github.com/KBrian5/solid-octo-happiness", 
-      author: "K Brian"
+      author: "Kevin Salgado"
     },
     {
       title: "A Stricklandds game",
@@ -79,9 +79,54 @@ const games = [
       author: "Alex Stricklandd"
     },
     {
-      title: "Ty's Game",
-      link: "https://tythomas21.github.io/charlie-lab/", 
-      author: "Tychicus Thomas"
+      title: "Hunter McGriff's Game",
+      link: "https://hunter-mcgriff.github.io/dev-lab-charlie/ ", 
+      author: "Hunter McGriff"
+    },
+      {
+      title: "Ashlyn Paruzynski's Game",
+      link: "https://ashmcflash.github.io/echo-lab/", 
+      author: "Ashlyn Paruzynski"
+    },
+  {
+      title: "Kristina Williams' Game",
+      link: "https://kwilliams31.github.io/Echo-Cool-Games/", 
+      author: "Kristina Williams"
+    },
+  {
+      title: "Meghan Skelton's Game",
+      link: "mskel1.github.io/sturdy-rotary-phone/", 
+      author: "Meghan Skelton"
+    },
+  {
+      title: "Elijah Aday's Game",
+      link: "https://github.com/EAday22/delta_Lab", 
+      author: "Elijah Aday"
+    },
+  {
+      title: "Hau Huynh's Game",
+      link: "https://hauhuynh90.github.io/Delta/", 
+      author: "Hau Huynh"
+    },
+  {
+      title: "Cody Mcdonald's Game",
+      link: "https://nutenjoyer.github.io/miniature-winner", 
+      author: "Cody Mcdonald"
+    },
+  {
+      title: "Ethan Rinke's Game",
+      link: "https://crimsonhog.github.io/probable-octo-carnival/", 
+      author: "Ethan Rinke"
+    },
+  {
+      title: "Maggie Little's Game",
+      link: "https://mlittle98.github.io/DELTALAB/", 
+      author: "Maggie Little"
+    },
+  {
+      title: "Rachel Thompson's Game",
+      link: "https://github.com/panhead63/bravo/tree/main", 
+      author: "Rachel Thompson"
     },
     
 ];
